@@ -12,7 +12,7 @@ public class Application {
 		view.displayMenu();
 		
 		//SubstitutionCipher substitutioncipher = new SubstitutionCipher();
-		//System.out.println(substitutioncipher.ceaserDecipher("WKHTXLFNEURZQIRAMXPSHGRYHUWKHODCBGRJ", 3));
+		//System.out.println(substitutioncipher.ceaserDecipher("WKHTXLFNEURZQIRAMXPSHGRYHUWKHODCBGRJ", 3)); 
 	}
 
 }
