@@ -11,6 +11,8 @@ public class Application {
 		//System.out.println(-4 % 26);
 		view.displayMenu();
 		
+		// Another Test Comment to push
+		
 		//SubstitutionCipher substitutioncipher = new SubstitutionCipher();
 		//System.out.println(substitutioncipher.ceaserDecipher("WKHTXLFNEURZQIRAMXPSHGRYHUWKHODCBGRJ", 3)); 
 	}
